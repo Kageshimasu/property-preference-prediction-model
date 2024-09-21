@@ -96,7 +96,6 @@ docs/_build/
 *.log
 
 # Data files
-*.csv
 *.h5
 
 # Ignore environment folders (if using Conda)
